@@ -17,10 +17,14 @@
         <h1>
             SHIPDOG
          </h1>
-         <a href="index.html">
-            <button>Principal</button>
+         <a href="Reportes\Full-relacion.php">
+          <button>Lista</button>
+           </a> 
+
+          
+           <a href="index.html">
+            <button style="top: 100px; right: 80px;">Principal</button>
              </a> 
-            
         
     </header>
     <main>

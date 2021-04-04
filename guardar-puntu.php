@@ -86,9 +86,14 @@ $sql="SELECT id_Comida,Nombre_Producto FROM comidas";
       <h1>
           SHIPDOG
        </h1>
-       <a href="index.html">
-          <button>Principal</button>
+       <a href="Reportes\Full-puntuacion.php">
+          <button>Lista</button>
            </a> 
+
+          
+           <a href="index.html">
+            <button style="top: 100px; right: 80px;">Principal</button>
+             </a> 
           
       
   </header>
